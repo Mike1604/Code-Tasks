@@ -1,0 +1,3 @@
+C:/Users/abrah/OneDrive/Documentos/GitHub/Code-Tasks/List Dir/build/CMakeFiles/listdir.dir
+C:/Users/abrah/OneDrive/Documentos/GitHub/Code-Tasks/List Dir/build/CMakeFiles/edit_cache.dir
+C:/Users/abrah/OneDrive/Documentos/GitHub/Code-Tasks/List Dir/build/CMakeFiles/rebuild_cache.dir
