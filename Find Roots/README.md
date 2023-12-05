@@ -25,7 +25,6 @@
 Technologies used in the project:
 
 *   c++
-<h2>⚙️ How to run it</h2>
 
 El programa fue compilado utilizando CMake por lo que en la carpeta Build sera posible encontrar todas las dependencias y el .exe que permitira que este pueda ejecutarse de manera:
 findroots.exe a b c d
