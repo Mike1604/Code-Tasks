@@ -7,11 +7,11 @@
 </br>
 <p>Lo primero que se hace es obtener la dirección del directorio a través de los argumentos del ejecutable. Posteriormente, se realizan algunas pequeñas validaciones para verificar su corrección, asegurarse de que se haya recibido la dirección y confirmar la existencia del directorio</p>
 
-![App Screenshot](https://github.com/Mike1604/Code-Tasks/blob/main/Find%20Roots/Img%20Readme/Functions.png?raw=true)
+![App Screenshot](https://github.com/Mike1604/Code-Tasks/blob/main/List%20Dir/Img%20Readme/Main.png?raw=true)
 
  <p>Una vez confirmada la existencia del directorio, se emplea la librería fstream para crear o abrir el archivo JSON en el que se ingresarán todos los datos. Posteriormente, se utiliza la librería filesystem para iterar sobre los archivos dentro del directorio y obtener su nombre y tamaño. Es crucial destacar la importancia de darle el formato adecuado al archivo para que funcione correctamente como un JSON.</p>
 
-![App Screenshot](https://github.com/Mike1604/Code-Tasks/blob/main/Find%20Roots/Img%20Readme/Functions.png?raw=true)
+![App Screenshot](https://github.com/Mike1604/Code-Tasks/blob/main/List%20Dir/Img%20Readme/fs.png?raw=true)
 
 <h2>💻 Built with</h2>
 
